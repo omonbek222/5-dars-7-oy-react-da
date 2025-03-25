@@ -5,7 +5,7 @@ export default function Footer() {
       <div className="flex justify-between bg-[#46A3581A] p-[23px] max-lg:flex-col max-lg:items-center gap-2.5">
         <div>
           <Image
-            src="/logo.svg"
+            src=""
             alt="gul"
             width={100}
             height={100}

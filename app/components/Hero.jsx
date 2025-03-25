@@ -4,7 +4,7 @@ export default function Hero() {
     <div className="flex">
       <div className="border-r m-[23px] pr-[23px] border-[#46A358] w-[200px] h-[210px] ">
         <Image
-          src="/footer_flower_1.svg"
+          src="/public/logo_1"
           alt="gul"
           width={100}
           height={100}
